@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taruntata
-- 👀 I’m interested in gaming when I am free or to code a lil bit!
-- 🌱 I’m currently learning advanced Python concepts
+- 👀 I’m interested in gaming or binging anime when free
+- 🌱 I’m currently learning Advanced Python concepts
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Football and Table Tennis!
 
