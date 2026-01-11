@@ -3,4 +3,4 @@
 - Practicing SQL for real-world business queries  
 - Exploring machine learning fundamentals for analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taruntata&show_icons=true)
