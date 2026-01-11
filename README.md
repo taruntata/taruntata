@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Tarun!
-- 👀 I’m interested in gaming and playing sports when free
-- 🌱 I’m currently learning Advanced Python concepts, and trying to get employed ;)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Sports, can talk about them for ages!
+### 🔍 Current Focus
+- Building data analysis projects with Python & Pandas  
+- Practicing SQL for real-world business queries  
+- Exploring machine learning fundamentals for analytics
 
-<!---
-taruntata/taruntata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
